@@ -28,4 +28,4 @@ webpages
 ![Body](./images/demo/15B.png)
 ![Body](./images/demo/16B.png)
 ![Body](./images/demo/17B.png)
-![Footer](./images/demo/15B.png)
+![Footer](./images/demo/18B.png)
